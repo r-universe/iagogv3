@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "GramQuad"]
+	path = GramQuad
+	url = https://gitlab.com/iagogv/gramquad
+[submodule "boxcoxmix"]
+	path = boxcoxmix
+	url = https://gitlab.com/iagogv/boxcoxmix
+[submodule "clusterCrit"]
+	path = clusterCrit
+	url = https://gitlab.com/iagogv/clustercrit
+[submodule "kedd"]
+	path = kedd
+	url = https://gitlab.com/iagogv/kedd
+[submodule "trouBBlme4SolveR"]
+	path = trouBBlme4SolveR
+	url = https://gitlab.com/iagogv/troubblme4solver
