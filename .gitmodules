@@ -14,6 +14,9 @@
 [submodule "kedd"]
 	path = kedd
 	url = https://gitlab.com/iagogv/kedd
+[submodule "mdscore"]
+	path = mdscore
+	url = https://codeberg.org/iagogv/mdscore
 [submodule "trouBBlme4SolveR"]
 	path = trouBBlme4SolveR
 	url = https://gitlab.com/iagogv/troubblme4solver
